@@ -18,9 +18,21 @@ Welcome to my digital workshop! I’m a developer who enjoys transforming ideas 
 
 ## 🤝
 
-[![LinkedIn](https://img.shields.io/badge/-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/subham-kumar-09227723a/)
-[![LeetCode](https://img.shields.io/badge/-orange?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/sicillian_dragon/)
-[![Gmail](https://img.shields.io/badge/-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:subham10022000@gmail.com)
+## 🤝 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/subham-kumar-09227723a/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="mailto:subham10022000@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/sicillian_dragon/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
