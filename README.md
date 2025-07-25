@@ -19,7 +19,7 @@ I'm passionate about coding, open-source, and building innovative solutions. I e
 ## 🤝 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/subham-kumar-09227723a/)
-- [LeetCode Stats](https://leetcode.com/u/sicillian_dragon/)
+- [LeetCode](https://leetcode.com/u/sicillian_dragon/)
 
 ---
 
