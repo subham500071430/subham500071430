@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Subham
+# 👋 Hey there, I'm Subham!
 
 I'm a Software Engineer with 3+ years of hands-on experience working on backend systems and APIs, building reliable, scalable, and user-focused solutions. My expertise lies in designing robust architectures, optimizing databases, and developing RESTful services. Explore my work below for a taste of what I create!
 
