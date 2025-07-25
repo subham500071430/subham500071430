@@ -20,8 +20,9 @@ Welcome to my digital workshop! I’m a developer who enjoys transforming ideas 
 
 ## 🤝 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/subham-kumar-09227723a/)
-- [LeetCode Stats](https://leetcode.com/u/sicillian_dragon/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subham_Kumar-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/subham-kumar-09227723a/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-sicillian_dragon-orange?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/sicillian_dragon/)
+[![Gmail](https://img.shields.io/badge/Email-subham10022000%40gmail.com-red?logo=gmail&style=for-the-badge)](mailto:subham10022000@gmail.com)
 
 ---
 
