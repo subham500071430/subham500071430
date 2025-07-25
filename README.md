@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=subham500071430&label=Profile%20views&color=0e75b6&style=flat" alt="subham500071430" />
+</p>
+
 # 👋 Hey there, I'm Subham!
 
 SWE | 3+ yrs | Java, Spring Boot, MySQL, Oracle DB, Redis, AWS, Docker
