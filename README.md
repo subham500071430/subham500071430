@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Subham!
 
-I'm a Software Engineer with 3+ years of hands-on experience working on backend systems and APIs, building reliable, scalable, and user-focused solutions. My expertise lies in designing robust architectures, optimizing databases, and developing RESTful services. Explore my work below for a taste of what I create!
+SWE | 3+ yrs | Java, Spring Boot, MySQL, Redis, AWS, Docker
 
 ---
 
