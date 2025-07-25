@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Subham!
 
-SWE | 3+ yrs | Java, Spring Boot, MySQL, Redis, AWS, Docker
+SWE | 3+ yrs | Java, Spring Boot, MySQL, Oracle DB, Redis, AWS, Docker
 
 ---
 
